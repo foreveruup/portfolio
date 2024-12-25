@@ -75,44 +75,39 @@ This will run the Express server on [http://localhost:5001](http://localhost:500
 
 ## Key Components and Functionality
 
-1. NavBar:
+NavBar:
 
 1. Fixed position navigation
 2. Responsive design with collapsible menu
 3. Active section highlighting
 
 
-
-2. Banner:
+Banner:
 
 1. Animated text showcasing different roles
 2. Responsive layout with hero image
 
 
-
-3. Skills:
+Skills:
 
 1. Carousel display of skills
 2. Responsive design adapting to screen sizes
 
 
-
-4. Projects:
+Projects:
 
 1. Tab-based navigation between project categories
 2. Project cards with hover effects and links
 
 
-
-5. Contact:
+Contact:
 
 1. Form with client-side validation
 2. Asynchronous submission to backend
 3. Success/error message display
 
 
-
-6. Quiz:
+Quiz:
 
 1. Multi-step quiz about programming preferences
 2. Results submission to backend
