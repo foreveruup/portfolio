@@ -63,7 +63,7 @@ app.post("/quiz", (req, res) => {
       <p><strong>Working Style:</strong> ${workingStyle}</p>
     `,
     };
-
+w
     contactEmail.sendMail(mail, (error) => {
         if (error) {
             res.status(500).json({ message: "Error sending email", error });
